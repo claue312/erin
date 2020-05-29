@@ -116,7 +116,7 @@ left:0;
 }
 
 ::selection {
-background-color:#00f;
+background-color: pink;
 }
 
 a {
@@ -237,7 +237,7 @@ flex-direction:column;
 
 body {
 padding:.5rem;
-}
+
 }
 
 @media prefers-color-scheme dark{
@@ -362,14 +362,11 @@ top:0;
 left:0;
 }
 
-::selection {
-background-color:#00f;
-}
 
 a {
 text-decoration:none;
 cursor:alias;
-color:#c5c5c5;
+color: pink;
 }
 
 body {
